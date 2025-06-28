@@ -1,14 +1,14 @@
 
-# The Cursed Faint - Terms of Use and Policies
+# The Uncursed - Terms of Use and Policies
 
-**Welcome to The Cursed Faint Wiki!**
+**Welcome to The Uncursed Wiki!**
 Please read these Terms of Use and Policies carefully before using this website or any related content.
 
 ---
 
 ## 1. Acceptance of Terms
 
-By accessing and using this website ("The Cursed Faint Wiki"), you agree to be bound by these Terms of Use and Policies. If you do not agree with any part of these terms, please do not use this website.
+By accessing and using this website ("The Uncursed Wiki"), you agree to be bound by these Terms of Use and Policies. If you do not agree with any part of these terms, please do not use this website.
 
 ---
 
@@ -42,7 +42,7 @@ You agree not to use this site or its content for any illegal or harmful purpose
 * Harassment or abuse of others
 * Distribution of viruses, malware, or harmful code
 * Unauthorized copying or redistribution of content
-* Any form of cheating or exploiting in mods or games related to The Cursed Faint
+* Any form of cheating or exploiting in mods or games related to The Uncursed
 
 ---
 
